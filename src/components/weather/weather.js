@@ -31,9 +31,7 @@ function Weather() {
 
   return (
     <div className="weather">
-
       <SearchWeather ville={ville}/>
-
       <Grid container justifyContent="center" alignItems="center">
         <Grid item xs={12}>
           <p>Entrez le nom d'une ville en France</p>
