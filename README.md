@@ -6,15 +6,11 @@ The meteorological conditions is diplayed with a picture.
 
 This application has been tested on Windows 10.
 
-# How to clone
-
-`git clone ..`
-
 # How to run
 
 ## OpenWeatherMap
 
-Yon need to create a OpenweatherMap account and add in .env your api key whit the following format `REACT_APP_API_KEY=yourapikey`.
+Yon need to create a OpenweatherMap account and add in .env your api key with the following format `REACT_APP_API_KEY=yourapikey`.
 
 ## Docker
 
